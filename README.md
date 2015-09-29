@@ -15,6 +15,10 @@ List of snippets and libraries from Onebit engineers
 - [iOS]()
 	- [Objective-C](#goto-objc)
 	- [Swift](#goto-swift)
+
+- [Jenkins](#goto-jenkins)
+
+- [Gist](#goto-gist)
 	
 - [Misc.](#goto-misc)
 
@@ -50,6 +54,15 @@ List of snippets and libraries from Onebit engineers
 ## <a name="goto-swift"></a>Swift
 
 * [swift-army](https://github.com/apradanas/swift-army) -  A collection of Swift extensions
+
+
+## <a name="goto-jenkins"></a>Jenkins
+* [jenkins-bitbucket-pullrequest](https://github.com/onebithq/jenkins-bitbucket-pullrequest) - Scripts to receive and update Bitbucket pull request for Jenkins integration
+
+
+## <a name="goto-gist"></a>Gist
+- [CheckAll](https://gist.github.com/hiraq/4362478c5fcf9b2b65b8) - jQuery plugin to automatically check all checkbox
+- [Confirmit](https://gist.github.com/hiraq/733c543dbab7e46ec81d) - jQuery plugin to create confirmation window
 
 
 ## <a name="goto-misc"></a>Misc
