@@ -1,0 +1,25 @@
+{
+  "name": "awesome-onebit",
+  "version": "1.0.0",
+  "description": "List of snippets and libraries from Onebit engineers",
+  "main": " ",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-deadlink": "^0.1.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onebithq/awesome-onebit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onebithq/awesome-onebit/issues"
+  },
+  "homepage": "https://github.com/onebithq/awesome-onebit#readme"
+}
