@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akhyrul/awesome-onebit.git"
+    "url": "git+https://github.com/onebithq/awesome-onebit.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akhyrul/awesome-onebit/issues"
+    "url": "https://github.com/onebithq/awesome-onebit/issues"
   },
-  "homepage": "https://github.com/akhyrul/awesome-onebit#readme"
+  "homepage": "https://github.com/onebithq/awesome-onebit#readme"
 }
