@@ -68,4 +68,5 @@ List of snippets and libraries from Onebit engineers
 
 ## <a name="goto-misc"></a>Misc
 
+* [hubot-mysql-brain](https://github.com/akhyrul/hubot-mysql-brain) - A script to persist hubot's brain using MySQL
 * [hubot-movie](https://github.com/akhyrul/hubot-movie) - A hubot script that search movie info from IMDB via Open Movie Database API
