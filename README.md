@@ -19,7 +19,7 @@ List of snippets and libraries from Onebit engineers
 - [Jenkins](#goto-jenkins)
 
 - [Gist](#goto-gist)
-	
+
 - [Misc.](#goto-misc)
 
 
@@ -44,6 +44,7 @@ List of snippets and libraries from Onebit engineers
 * [AMQP-Connect](https://github.com/rakawestu/amqp-connect) - Android library for connecting to RabbitMQ
 * [pisolipet](https://github.com/onebithq/pisolipet) - Helper utilities for Android development
 * [simple-linkable-text](https://github.com/apradanas/simple-linkable-text) -  Simple way to create linked text, such as @username or #hashtag, in Android TextView and EditText
+* [SearchToolbar](https://github.com/rakawestu/SearchToolbar) - Extended Android support toolbar with search mode
 * [MvpTemplate](https://github.com/onebithq/MvpTemplate) - Android basic project using MVP (Model-View-Presenter) pattern
 * [android-project-template](https://github.com/onebithq/android-project-template) - Android Project Template used in Onebit
 
@@ -67,4 +68,5 @@ List of snippets and libraries from Onebit engineers
 
 ## <a name="goto-misc"></a>Misc
 
+* [hubot-mysql-brain](https://github.com/akhyrul/hubot-mysql-brain) - A script to persist hubot's brain using MySQL
 * [hubot-movie](https://github.com/akhyrul/hubot-movie) - A hubot script that search movie info from IMDB via Open Movie Database API
