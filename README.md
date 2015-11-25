@@ -36,7 +36,7 @@ List of snippets and libraries from Onebit engineers
 
 ## <a name="goto-coffee-node"></a>CoffeeScript/NodeJS
 * [Node Coffee Template](https://github.com/onebithq/node-coffee-template) - Basic template project for NodeJS - CoffeeScript
-
+* [Fitbit Client API](https://github.com/lagilaper/fitbit-client-api) - NodeJS library for Fitbit with OAuth2. It's only implement refresh token, profile and time series for now.
 
 ## <a name="goto-android"></a>Android
 
