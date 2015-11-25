@@ -5,17 +5,16 @@ List of snippets and libraries from Onebit engineers
 
 ## Table of Contents
 
-- [Backend]()
-	- [Go](#goto-go)
-	- [PHP](#goto-php)
-	- [CoffeeScript-NodeJS](#goto-coffee-node)
+- [Go](#goto-go)
+- [PHP](#goto-php)
+- [NodeJS](#goto-coffee-node)
+- [jQuery](#jquery)
 - [Android](#goto-android)
 - [Kotlin](#kotlin)
 - [iOS]()
 	- [Objective-C](#goto-objc)
 	- [Swift](#goto-swift)
 - [Jenkins](#goto-jenkins)
-- [Gist](#goto-gist)
 - [Misc.](#goto-misc)
 
 
@@ -30,9 +29,16 @@ List of snippets and libraries from Onebit engineers
 * [cipiki](https://github.com/onebithq/cipiki) - Really simple static website generator for PHP. Content written in Markdown, template is using Twig.
 
 
-## <a name="goto-coffee-node"></a>CoffeeScript/NodeJS
+## <a name="nodejs"></a>NodeJS
 * [Node Coffee Template](https://github.com/onebithq/node-coffee-template) - Basic template project for NodeJS - CoffeeScript
 * [Fitbit Client API](https://github.com/lagilaper/fitbit-client-api) - NodeJS library for Fitbit with OAuth2. It's only implement refresh token, profile and time series for now.
+
+
+## <a name="jquery"></a>jQuery
+
+- [CheckAll](https://gist.github.com/hiraq/4362478c5fcf9b2b65b8) (Gist) - jQuery plugin to automatically check all checkbox
+- [Confirmit](https://gist.github.com/hiraq/733c543dbab7e46ec81d) (Gist) - jQuery plugin to create confirmation window
+
 
 ## <a name="goto-android"></a>Android
 
@@ -51,6 +57,7 @@ List of snippets and libraries from Onebit engineers
 
 ## <a name="goto-objc"></a>Objective-C
 
+*to be added*
 
 ## <a name="goto-swift"></a>Swift
 
@@ -59,11 +66,6 @@ List of snippets and libraries from Onebit engineers
 
 ## <a name="goto-jenkins"></a>Jenkins
 * [jenkins-bitbucket-pullrequest](https://github.com/onebithq/jenkins-bitbucket-pullrequest) - Scripts to receive and update Bitbucket pull request for Jenkins integration
-
-
-## <a name="goto-gist"></a>Gist
-- [CheckAll](https://gist.github.com/hiraq/4362478c5fcf9b2b65b8) - jQuery plugin to automatically check all checkbox
-- [Confirmit](https://gist.github.com/hiraq/733c543dbab7e46ec81d) - jQuery plugin to create confirmation window
 
 
 ## <a name="goto-misc"></a>Misc
