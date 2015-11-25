@@ -9,17 +9,13 @@ List of snippets and libraries from Onebit engineers
 	- [Go](#goto-go)
 	- [PHP](#goto-php)
 	- [CoffeeScript-NodeJS](#goto-coffee-node)
-
 - [Android](#goto-android)
-
+- [Kotlin](#kotlin)
 - [iOS]()
 	- [Objective-C](#goto-objc)
 	- [Swift](#goto-swift)
-
 - [Jenkins](#goto-jenkins)
-
 - [Gist](#goto-gist)
-
 - [Misc.](#goto-misc)
 
 
@@ -48,6 +44,10 @@ List of snippets and libraries from Onebit engineers
 * [MvpTemplate](https://github.com/onebithq/MvpTemplate) - Android basic project using MVP (Model-View-Presenter) pattern
 * [android-project-template](https://github.com/onebithq/android-project-template) - Android Project Template used in Onebit
 
+## <a name="kotlin"></a>Kotlin
+
+* [String Extensions](https://gist.github.com/akhyrul/e97709611af4331ef429#file-stringhelpers-kt) (Gist) - Kotlin extension functions for manipulating String
+* [Gravatar Helper](https://gist.github.com/akhyrul/e97709611af4331ef429#file-gravatarhelpers-kt) (Gist) - Type-safe Kotlin helper for generating Gravatar URL from email string
 
 ## <a name="goto-objc"></a>Objective-C
 
